@@ -1,0 +1,9 @@
+{
+  "measuredAt": "2026-10-19T06:53:30.899Z",
+  "environment": "Local production build",
+  "browser": "Chromium",
+  "viewport": "390 × 844",
+  "network": "Localhost; no network or CPU throttling",
+  "lcp": 420,
+  "cls": 0.0001416054685947686
+}
